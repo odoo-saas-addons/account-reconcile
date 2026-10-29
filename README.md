@@ -24,15 +24,15 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [account_in_payment](account_in_payment/) | 18.0.1.0.0 |  | This module enables in-payment mode for your accounting
 [account_mass_reconcile](account_mass_reconcile/) | 18.0.1.0.0 |  | Account Mass Reconcile
-[account_move_base_import](account_move_base_import/) | 18.0.1.0.3 |  | Journal Entry base import
+[account_move_base_import](account_move_base_import/) | 18.0.1.0.4 |  | Journal Entry base import
 [account_move_reconcile_forbid_cancel](account_move_reconcile_forbid_cancel/) | 18.0.1.0.0 |  | Account Move Reconcile Forbid Cancel
 [account_move_reconcile_helper](account_move_reconcile_helper/) | 18.0.1.0.0 |  | Provides tools to facilitate reconciliation
 [account_move_so_import](account_move_so_import/) | 18.0.1.0.0 | <a href='https://github.com/florian-dacosta'><img src='https://github.com/florian-dacosta.png' width='32' height='32' style='border-radius:50%;' alt='florian-dacosta'/></a> | Journal Entry Sale Order completion
 [account_partner_reconcile](account_partner_reconcile/) | 18.0.1.0.0 |  | Account Partner Reconcile
 [account_reconcile_analytic_tag](account_reconcile_analytic_tag/) | 18.0.1.0.1 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Analytic tags in account reconciliation
 [account_reconcile_due_date](account_reconcile_due_date/) | 18.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Account Reconcile Due Date
-[account_reconcile_model_oca](account_reconcile_model_oca/) | 18.0.1.2.0 |  | This includes the logic moved from Odoo Community to Odoo Enterprise
-[account_reconcile_oca](account_reconcile_oca/) | 18.0.1.3.0 | <a href='https://github.com/etobella'><img src='https://github.com/etobella.png' width='32' height='32' style='border-radius:50%;' alt='etobella'/></a> | Reconcile addons for Odoo CE accounting
+[account_reconcile_model_oca](account_reconcile_model_oca/) | 18.0.1.3.0 |  | This includes the logic moved from Odoo Community to Odoo Enterprise
+[account_reconcile_oca](account_reconcile_oca/) | 18.0.1.4.0 | <a href='https://github.com/etobella'><img src='https://github.com/etobella.png' width='32' height='32' style='border-radius:50%;' alt='etobella'/></a> | Reconcile addons for Odoo CE accounting
 [account_reconcile_oca_add_default_filters](account_reconcile_oca_add_default_filters/) | 18.0.1.0.0 | <a href='https://github.com/alexis-via'><img src='https://github.com/alexis-via.png' width='32' height='32' style='border-radius:50%;' alt='alexis-via'/></a> | Add default filters in Reconcile tab when the bank statement line has a partner
 [account_reconcile_oca_queue](account_reconcile_oca_queue/) | 18.0.1.1.0 |  | Auto-reconcile in queue jobs
 [account_reconcile_restrict_partner_mismatch](account_reconcile_restrict_partner_mismatch/) | 18.0.1.0.1 |  | Restrict reconciliation on receivable and payable accounts to the same partner
